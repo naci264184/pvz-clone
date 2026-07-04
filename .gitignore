@@ -7,7 +7,7 @@ x86/
 
 # 忽略所有 temp 临时文件夹
 temp/
-Assets/RawAssets
+PlantsVsZombies/Assets/RawAssets
 
 # 忽略本地用户配置文件
 *.user
